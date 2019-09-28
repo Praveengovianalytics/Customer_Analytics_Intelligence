@@ -3,7 +3,7 @@
 Above 3 python workbook help to do customer analysis of Sales transaction data. I had covered 
 few customer analytic metric such as
 
-Scope of customer transaction - 01-Jan-2014 to 31-Dec-2017
+Scope of customer transactions - 01-Jan-2014 to 31-Dec-2017
 
 1. Sales Forecast  - Seasonal Auto Regressive Integrated & Moving Average
 
