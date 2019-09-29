@@ -10,3 +10,5 @@ Scope of customer transactions - 01-Jan-2014 to 31-Dec-2017
 2. Customer Cohort  - Customer retention based on recent purchase and Average sales of customer 
 
 3. Customer segmentation based on Recency - Frequency - Monitory (RMF) with K Means clustering & silhouette score
+
+Thanks to Sushan Lee , He blogpost & codes really helped to shape up this report
