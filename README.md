@@ -11,6 +11,6 @@ Scope of customer transactions - 01-Jan-2014 to 31-Dec-2017
 
 3. Customer segmentation based on Recency - Frequency - Monitory (RMF) with K Means clustering & silhouette score
 
-Thanks to lot to Sushan Lee & Kaggle folks , Their blogpost & codes really helped to shape up this report
+Thanks a lot to Sushan Lee & Kaggle folks , Their blogposts & codes really helped to shape up this report
 
 #Happy2Share #Createbettercommunity #beopen
